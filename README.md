@@ -8,9 +8,9 @@ A lo que quiero dedicarme en un futuro seria a diseñar paginas web con HTML y C
 
 MIS PROYECTOS:
 
-http://github.com/pablorodriguezmesa32-dot/proyecto-js-1 - Aqui teneis algunos ejercicios de repaso de Desarrollo Entorno Cliente del Arbol DOM
-http://github.com/pablorodriguezmesa32-dot/proyecto-html-1 - En este teneis algunas etiquetas basicas de HTML y CSS respectivamente
-http://github.com/pablorodriguezmesa32-dot/proyecto-js-2 - Aqui tendreis repaso, teoria y mas ejercicios realizados por mi sobre el Arbol DOM.
+- http://github.com/pablorodriguezmesa32-dot/proyecto-js-1 - Aqui teneis algunos ejercicios de repaso de Desarrollo Entorno Cliente del Arbol DOM
+- http://github.com/pablorodriguezmesa32-dot/proyecto-html-1 - En este teneis algunas etiquetas basicas de HTML y CSS respectivamente
+- http://github.com/pablorodriguezmesa32-dot/proyecto-js-2 - Aqui tendreis repaso, teoria y mas ejercicios realizados por mi sobre el Arbol DOM.
 
 CONTACTO:
-Correo electronico: pablorodriguezmesa32@gmail.com
+- Correo electronico: pablorodriguezmesa32@gmail.com
